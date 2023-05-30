@@ -1,0 +1,4 @@
+mysql-connector-python
+python-dotenv
+mindsdb_sdk
+jupyter
